@@ -11,7 +11,7 @@ A genre-defining online gaming platform featuring a modern take on the classic s
 - Intuitive user interface with Home, Scoreboard, and Games sections
 - Seamless login and player progression system
 
-### Variety Gifts Creative Agency
+### Variety Gifts
 ![image](https://github.com/user-attachments/assets/429d258a-9489-41d0-a381-c4528b592ae5)
 Leading a creative agency specializing in unique digital experiences and tools:
 - Developed the "Spooky Pet Converter" - An innovative web app that transforms pet photos into Halloween-themed digital art
