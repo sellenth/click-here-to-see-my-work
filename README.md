@@ -1,7 +1,3 @@
-### First time on github?
-
-# Portfolio - Innovative Web Experiences
-
 ## About Me
 I'm a creative technologist passionate about building groundbreaking web experiences that push the boundaries of what's possible in the browser. My work spans from competitive gaming platforms to delightful consumer applications.
 
