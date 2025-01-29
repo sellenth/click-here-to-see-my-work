@@ -5,13 +5,7 @@ I recently placed **36th in the world** on a global coding competition! Check ou
 
 ---
 
-## Featured Projects
-
-### Fight Night Intro Generator
-![image](https://github.com/user-attachments/assets/48786903-b3c6-4ea2-9c0f-d6a33cd9519b)
-
-The **Fight Night Intro Generator** is a revolutionary web tool that creates professional-grade fight night intro videos with just a few clicks. Built with the **latest, state-of-the-art AI technology**, this project showcases the power of modern machine learning applied to digital creativity.  
-- Explore the tool here: [Fight Night Intro Generator](https://www.variety.gifts/intro)  
+## Featured Projects 
 
 ### Quoridor Online
 ![image](https://github.com/user-attachments/assets/cc1accda-094f-4b10-97f5-9b5e11fdf6d1)
@@ -26,10 +20,16 @@ A genre-defining online gaming platform featuring a modern take on the classic s
 ![image](https://github.com/user-attachments/assets/429d258a-9489-41d0-a381-c4528b592ae5)
 
 Leading a creative agency specializing in unique digital experiences and tools:
-- Developed the [Spooky Pet Converter](https://www.variety.gifts/pet-converter) - An innovative web app that transforms pet photos into Halloween-themed digital art  
+- Developed the [Spooky Pet Converter](https://www.variety.gifts/pet-converter) - An innovative web experience that transforms pet photos into Halloween-themed digital art  
 - Focus on creating memorable, shareable digital moments  
 - Building tools that bring joy and creativity to users' daily lives  
 
+
+
+### Fight Night Intro Generator
+![image](https://github.com/user-attachments/assets/48786903-b3c6-4ea2-9c0f-d6a33cd9519b)
+
+The **Fight Night Intro Generator** is a revolutionary web tool that creates professional-grade fight night intro videos with just a few clicks. Built with the **latest, state-of-the-art AI technology**, this project showcases the power of modern machine learning .  
 ---
 
 ## Vision
@@ -42,4 +42,4 @@ My goal is to continue pushing the boundaries of web technology by:
 ---
 
 ## Let's Connect
-I'm always open to collaborating on innovative web projects that challenge the status quo. Feel free to reach out!  
+If you want to connect, please do. halston @ sellent in
