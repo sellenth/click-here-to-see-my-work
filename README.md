@@ -14,7 +14,7 @@ A genre-defining online gaming platform featuring a modern take on the classic s
 - Stunning 3D graphics and fluid animations  
 - Real-time multiplayer functionality  
 - Seamless login and player progression system  
-- Check it out: [Quoridor Online](https://www.quoridor-online.com)  
+- Code here: [Quoridor Online](https://github.com/sellenth/QuoridorOnline)  
 
 ### Variety Gifts
 ![image](https://github.com/user-attachments/assets/429d258a-9489-41d0-a381-c4528b592ae5)
